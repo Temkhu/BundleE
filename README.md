@@ -61,5 +61,5 @@ tähti
 ![Eka Screenshot](https://github.com/Temkhu/bundlee/assets/112549873/197533a9-3360-43a0-ad1b-c8bf64d5d912)
 # TOKA SCREENSHOT
 ![Toka Screenshot](https://github.com/Temkhu/bundlee/assets/112549873/3729da6b-4092-40b3-b4d6-5e48cd480704)
-#Kolmas SCREENSHOT
+# Kolmas SCREENSHOT
 ![Kolmas Screenshot](https://github.com/Temkhu/bundlee/assets/112549873/60ef6830-5412-4db6-bfff-940a32133443)
