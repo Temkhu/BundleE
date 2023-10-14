@@ -48,12 +48,12 @@ tähti
 
 ### Varoitus teksti kikkailu
 
->[!NOTE]
->Kevyt muistutus
+> [!NOTE]
+> Kevyt muistutus
 
->[!IMPORTANT]
->Tärkeää
+> [!IMPORTANT]
+> Tärkeää
 
->[!WARNING]
->Todella tärkeää
+> [!WARNING]
+> Todella tärkeää
 
