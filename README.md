@@ -4,13 +4,13 @@
 
 ## Lista testailua
 
-** Ei järjestyksessä **
+**Ei järjestyksessä**
 
 - auto
 * kala
 + tähti
 
-* Järjestyksessä *
+*Järjestyksessä*
 
 1. auto
 1. kala
