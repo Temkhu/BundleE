@@ -45,3 +45,12 @@ tähti
 ```
 [^1]: Testailua headeriin.
 [^2]: Quote testailua headeriin.
+
+### Varoitus teksti kikkailu
+
+>[!NOTE]
+>Kevyt muistutus
+>[!IMPORTANT]
+>Tärkeää
+>[!WARNING]
+>Todella tärkeää
