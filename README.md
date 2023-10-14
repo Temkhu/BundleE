@@ -1,4 +1,4 @@
-# TESTAILUA
+# TESTAILUA[^1]
 
 ** Täällä on pilvipalvelukurssin Bundle E **<br>
 ~~Täällä on pilvipalvelukurssin Bundle E~~<br>
@@ -26,8 +26,14 @@ Täällä on pilvipalvelukurssin <sup>Bundle E</sup><br>
     - auto
       - auto
 
+*Task list*
 
-### Quote testailua
+- [ ] auto 🚗
+- [x] kala 🐟
+- [ ] tähti ⭐
+
+
+### Quote testailua[^2]
 
 > Texti quote testailua
 
@@ -37,6 +43,5 @@ auto
 kala
 tähti
 ```
-
-
-
+[^1]: Testailua headeriin.
+[^2]: Quote testailua headeriin.
